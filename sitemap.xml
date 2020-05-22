@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+	<url>
+		<loc>http://whatisphishing.com</loc>
+		<lastmod>2020-05-22T09:49:59-0700</lastmod>
+		<priority>1.0</priority>
+	</url>
+	<url>
+		<loc>http://whatisphishing.com/posts/</loc>
+		<lastmod>2020-05-22T09:49:59-0700</lastmod>
+		<priority>0.9</priority>
+	</url>
+	<url>
+		<loc>http://whatisphishing.com/phishing-protection/</loc>
+		<lastmod>2020-05-22T07:45:54-0700</lastmod>
+		<priority>0.9</priority>
+	</url>
+	<url>
+		<loc>http://whatisphishing.com/phishing-scams/</loc>
+		<lastmod>2020-05-22T07:42:19-0700</lastmod>
+		<priority>0.9</priority>
+	</url>
+	<url>
+		<loc>http://whatisphishing.com/phishing-attacks/</loc>
+		<lastmod>2020-05-21T14:51:29-0700</lastmod>
+		<priority>0.9</priority>
+	</url>
+	<url>
+		<loc>http://whatisphishing.com/phishing-emails/</loc>
+		<lastmod>2020-05-21T14:46:53-0700</lastmod>
+		<priority>0.9</priority>
+	</url>
+
+</urlset>
